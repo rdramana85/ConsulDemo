@@ -1,2 +1,3 @@
-"myapp,dev":
- key2:welcome from git2consul1
+myapp:
+ dev:
+  key2:welcome from git2consul1
