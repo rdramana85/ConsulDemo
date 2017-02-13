@@ -1,1 +1,4 @@
 sample: configuration
+config:
+ "myapp,dev':
+   key1: From Git2consul
