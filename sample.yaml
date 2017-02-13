@@ -1,4 +1,1 @@
-sample: configuration
-config:
- 'myapp,dev':
-   key2: From Git2consul
+config/myapp,dev/key2:welcome from git2consul
