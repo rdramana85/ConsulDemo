@@ -1,2 +1,4 @@
 myapp-dev: 
-  key2: "welcome from git2consul1"
+  key2: "welcome from git2consul-DEV"
+myapp-sit: 
+  key2: "welcome from git2consul-SIT"
