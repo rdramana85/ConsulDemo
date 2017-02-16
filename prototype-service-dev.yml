@@ -3,6 +3,10 @@ logging:
 spring:
  zipkin: 
   baseUrl: http://localhost:9411
+management: 
+ security:
+  enabled: false  
+
  
  
   
