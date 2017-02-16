@@ -1,5 +1,10 @@
 logging: 
   file: /logs/prototype-service.log
+spring:
+ zipkin: 
+  baseUrl: http://30.135.52.141:9411/
+ 
+ 
   
 
 
