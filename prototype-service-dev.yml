@@ -1,2 +1,8 @@
 logging: 
   file: /logs/prototype-service.log
+  
+spring: 
+  cloud:
+   config:
+    uri: http:/localhost:8888/
+
