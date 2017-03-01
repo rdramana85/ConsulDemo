@@ -7,7 +7,7 @@ management:
  security:
   enabled: false  
 applicationProperties:
- message: welcome to prototype-12
+ message: welcome to prototype-13
 
  
  
